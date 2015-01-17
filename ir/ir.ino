@@ -11,7 +11,7 @@ NOTE: FastLED library does NOT work due to memory conflicts
 
 Hardware:
 Arduino Nano
-WS2801 pixel strip: data pin 13; clock pin 11
+An IR LED must be connected to Arduino PWM pin 3.
 Adafruit electret mic: A0 pin
 */
 
